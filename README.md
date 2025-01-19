@@ -1,5 +1,4 @@
 # packet-sniffer
-Here is a draft for your README file based on the provided code:
 
 ---
 
